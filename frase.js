@@ -20,3 +20,4 @@ for(letra of frase){
     }
 }
 console.log(contador)
+document.write(contador)
