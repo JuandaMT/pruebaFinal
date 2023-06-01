@@ -1,9 +1,10 @@
-/* pedir al usuario una palabra
-pedir al usuario la letra a buscar
-
-crear variable que sea contador
-crear un bucle que vaya de inicio a fin de la palabra
-crear condicional. Si la letra está contenida en la palabra que sume al contador
+/* PASOS
+1-PEDIR AL USUARIO UNA PALABRA
+2-PEDIR AL USUARIO UNA LETRA
+3-CONVERTIR LA PALABRA EN UNA ARRAY DE LETRAS
+4-CREAR UNA VARIABLE CONTADOR Y ASIGNARLE EL VALOR 0
+5-CREAR UN BUCLE QUE RECORRA LA ARRAY DE LETRAS
+6-CREAR UN CONDICIONAL: SI LA LETRA RECORRIDA ES IGUAL A LA LETRA INDICADA SUMAR UNO AL CONTADOR
  */
 
 let frase = prompt("Escribe una palabra");
